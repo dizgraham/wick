@@ -1,7 +1,7 @@
 ## wick
 band website
-<video src="[https://user-images.githubusercontent.com/aaa.mp4" controls="controls](https://github.com/dizgraham/wick.github.io/assets/70125813/2ed72217-9388-4be3-b3f7-80b8b8d6f14d
-)" style="max-width: 730px;"></video>
 
+https://github.com/dizgraham/wick.github.io/assets/70125813/9dd9b7c7-4d3f-49fe-a76a-3dec4094b51e
 
+an early rehearsal of an unreleased track known as 'danya/spring' -- coming soon to all major streaming services
 
