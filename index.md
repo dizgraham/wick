@@ -1,6 +1,8 @@
 ## wick
 band website
 
+wickfanmail@gmail.com
+
 wick is marlowe Tennenbaum, mint Willson, ilari Glanville, and graham Diz
 
 https://github.com/dizgraham/wick.github.io/assets/70125813/9dd9b7c7-4d3f-49fe-a76a-3dec4094b51e
